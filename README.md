@@ -10,8 +10,10 @@ works together
 ## Purpose
 
 Sample website with plenty of files for demos
-test 
+test test
 
 ## How to contribute
-
+Easy
 ## Deployment
+hot deploeys
+hot deploeys
